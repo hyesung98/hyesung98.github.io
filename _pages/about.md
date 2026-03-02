@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 id="about">About</h2>
 
-I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. [Kimin Lee](https://sites.google.com/view/kiminlee) (KAIST) and Dr. [Sungwook Yang](https://www.ansurlab.com/) (KIST). My research focuses on <strong class="accent-keyword">Learning-Based Hand Manipulation</strong>, <strong class="accent-keyword">Force-Level Interaction Modeling</strong>, and <strong class="accent-keyword">Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
+I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. <a class="default-text-link" href="https://sites.google.com/view/kiminlee">Kimin Lee</a> (KAIST) and Dr. <a class="default-text-link" href="https://www.ansurlab.com/">Sungwook Yang</a> (KIST). My research focuses on <strong class="accent-keyword">Learning-Based Hand Manipulation</strong>, <strong class="accent-keyword">Force-Level Interaction Modeling</strong>, and <strong class="accent-keyword">Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
 
 **<i class="fas fa-flask icon-pad-right" aria-hidden="true"></i>Research Interests**
 
@@ -35,7 +35,7 @@ Advisor: Sungwook Yang (KIST), Kimin Lee (KAIST)
 **Korea University & KIST**  
 M.S. in Computer Science, February 2024 - February 2026  
 Advisor: Sungwook Yang (KIST), Jinkyu Kim (Korea University)  
-Thesis: [Learning to Refine Human Motion into Physically Feasible Robotic Actions for Dexterous Manipulation](https://dcollection.korea.ac.kr/srch/srchDetail/000000307617?searchWhere1=all&insCode=211009&searchKeyWord1=%EC%9D%B4%ED%98%9C%EC%84%B1&treePageNum=1&query=%2B%28%2B%28all%3A%EC%9D%B4%ED%98%9C%EC%84%B1%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%EC%9D%B4%ED%98%9C%EC%84%B1%5D&sortField=score&searchTotalCount=0&sortDir=desc)
+Thesis: <a class="default-text-link" href="https://dcollection.korea.ac.kr/srch/srchDetail/000000307617?searchWhere1=all&insCode=211009&searchKeyWord1=%EC%9D%B4%ED%98%9C%EC%84%B1&treePageNum=1&query=%2B%28%2B%28all%3A%EC%9D%B4%ED%98%9C%EC%84%B1%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%EC%9D%B4%ED%98%9C%EC%84%B1%5D&sortField=score&searchTotalCount=0&sortDir=desc">Learning to Refine Human Motion into Physically Feasible Robotic Actions for Dexterous Manipulation</a>
 
 **Kwangwoon University**  
 B.S. in School of Robotics, March 2017 - August 2023  

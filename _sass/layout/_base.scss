@@ -134,6 +134,14 @@ html[data-theme="dark"] .accent-keyword {
   color: inherit;
 }
 
+a.default-text-link,
+a.default-text-link:visited,
+a.default-text-link:hover,
+a.default-text-link:active,
+a.default-text-link:focus {
+  color: inherit !important;
+}
+
 /* code */
 
 tt, code, kbd, samp, pre {
