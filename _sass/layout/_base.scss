@@ -125,6 +125,15 @@ a {
   }
 }
 
+.accent-keyword {
+  color: #0056b3;
+  font-weight: 700;
+}
+
+html[data-theme="dark"] .accent-keyword {
+  color: #8ec5ff;
+}
+
 /* code */
 
 tt, code, kbd, samp, pre {

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hyesung Lee"
+title                    : "Robotics & Physical AI Researcher"
 title_separator          : "-"
 name                     : &name "Hyesung Lee"
-description              : &description "Robotics & Physical AI researcher focused on dexterous manipulation."
+description              : &description "Robotics & Physical AI Researcher Focused on Learning-Based Hand Manipulation."
 url                      : https://hyesung98.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile-hyesung.jpg"
   name             : "Hyesung Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Physical AI, with a focus on dexterous manipulation using multi-fingered robotic hands."
+  bio              : "Researcher in Physical AI, with a focus on Learning-Based Hand Manipulation using Multi-Fingered Robotic Hands."
   location         : "Seoul, Republic of Korea"
   employer         : "KAIST & KIST"
   uri              : # URL

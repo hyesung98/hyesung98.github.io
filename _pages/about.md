@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyesung Lee | Robotics & Physical AI Researcher"
+title: "Robotics & Physical AI Researcher"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,21 +9,22 @@ redirect_from:
 
 <h2 id="about">About</h2>
 
-I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. Kimin Lee (KAIST) and Dr. Sungwook Yang (KIST). My research focuses on Physical AI and dexterous manipulation with multi-fingered robotic hands, especially force-level interaction modeling and learning-based control beyond purely kinematic methods.
+I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. Kimin Lee (KAIST) and Dr. Sungwook Yang (KIST). My research focuses on <strong class="accent-keyword">Learning-Based Hand Manipulation</strong>, <strong class="accent-keyword">Force-Level Interaction Modeling</strong>, and <strong class="accent-keyword">Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
 
 **<i class="fas fa-flask icon-pad-right" aria-hidden="true"></i>Research Interests**
 
-- <i class="fas fa-robot icon-pad-right" aria-hidden="true"></i>Dexterous manipulation
-- <i class="fas fa-eye icon-pad-right" aria-hidden="true"></i>Visuo-tactile and kinesthetic representation learning
-- <i class="fas fa-cubes icon-pad-right" aria-hidden="true"></i>Vision-Haptic-Language-Action (VHLA) models
-- <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i>Reinforcement learning and imitation learning for robotic hands
+- <i class="fas fa-hand-paper icon-pad-right" aria-hidden="true"></i><strong class="accent-keyword">Learning-Based Hand Manipulation</strong>
+- <i class="fas fa-eye icon-pad-right" aria-hidden="true"></i><strong class="accent-keyword">Visuo-Tactile and Kinesthetic Representation Learning</strong>
+- <i class="fas fa-cubes icon-pad-right" aria-hidden="true"></i><strong class="accent-keyword">Vision-Haptic-Language-Action (VHLA) Models</strong>
+- <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i><strong class="accent-keyword">Reinforcement Learning</strong> and <strong class="accent-keyword">Imitation Learning</strong>
+- <i class="fas fa-robot icon-pad-right" aria-hidden="true"></i><strong class="accent-keyword">Robot Manipulation</strong>
 
 <h2 id="news"><i class="fas fa-newspaper icon-pad-right" aria-hidden="true"></i>News</h2>
 
 - **March 2026:** Started Ph.D. in the Kim Jaechul Graduate School of AI, KAIST & KIST.
-- **January 2026:** Work on real-time closed-loop photodynamic therapy accepted to IEEE RA-L/ICRA 2026.
-- **October 2025:** Presented DexRefine at the IEEE Humanoids 2025 Dexterous Humanoid Manipulation Workshop.
-- **May 2023:** Published endomicroscopic image mosaicking work at IEEE EMBC 2023.
+- **January 2026:** Work on real-time closed-loop photodynamic therapy accepted to <strong class="accent-keyword">IEEE RA-L / ICRA 2026</strong>.
+- **October 2025:** Presented DexRefine at the <strong class="accent-keyword">IEEE Humanoids 2025 Dexterous Humanoid Manipulation Workshop</strong>.
+- **May 2023:** Published endomicroscopic image mosaicking work at <strong class="accent-keyword">IEEE EMBC 2023</strong>.
 
 <h2 id="education"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Education</h2>
 
@@ -45,32 +46,46 @@ Advisor: Jin-Oh Kim
 **KIST (Korea Institute of Science and Technology), Seoul, Republic of Korea**  
 Intern, March 2023 - August 2024
 
-- Researched endomicroscopic image SLAM and sensor fusion.
-- Performed photo-theranosis system integration.
+- Researched Endomicroscopic Image SLAM and Sensor Fusion.
+- Performed Photo-Theranosis System Integration.
 
 **Kakao Mobility, Seoul, Republic of Korea**  
 Contract Worker, December 2021 - May 2022
 
-- Built a promotional autonomous driving mobile robot for Kakao NEMO 2022.
-- Conducted stereo camera visual odometry research.
+- Built a Promotional Autonomous Driving Mobile Robot for Kakao NEMO 2022.
+- Conducted Stereo Camera Visual Odometry Research.
 
 **Stryx (Startup), Seoul, Republic of Korea**  
 Intern, September 2021 - December 2021
 
-- Developed road-data acquisition software using 3D LiDAR, GNSS, and machine vision cameras.
-- Built a sensor calibration visualization tool using ROS RViz.
+- Developed Road-Data Acquisition Software using 3D LiDAR, GNSS, and Machine Vision Cameras.
+- Built a Sensor Calibration Visualization Tool using ROS RViz.
 
-<h2 id="publications"><i class="fas fa-book-open icon-pad-right" aria-hidden="true"></i>Publications</h2>
+<h2 id="publications"><i class="fas fa-book-open icon-pad-right" aria-hidden="true"></i>Publication</h2>
+
+### Current Research
+
+1. **DexRefine: Refine Human Motion to Physically Feasible Robotic Actions**  
+   <strong class="accent-keyword">IEEE Humanoids Workshop</strong>, 2025  
+   <a class="btn btn--small" href="https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf" target="_blank" rel="noopener">Paper</a>
+
+### Previous Research
 
 1. **Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control**  
-   IEEE RA-L / ICRA, 2026  
+   <strong class="accent-keyword">IEEE RA-L / ICRA</strong>, 2026  
    <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/11361079/" target="_blank" rel="noopener">Paper</a>
-2. **DexRefine: Refine Human Motion to Physically Feasible Robotic Actions**  
-   IEEE Humanoids Workshop, 2025  
-   <a class="btn btn--small" href="https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf" target="_blank" rel="noopener">Paper</a>
-3. **Real-Time Endomicroscopic Image Mosaicking with an EKF-based Sensor Fusion Approach**  
-   IEEE EMBC, 2023  
+2. **Real-Time Endomicroscopic Image Mosaicking with an EKF-based Sensor Fusion Approach**  
+   <strong class="accent-keyword">IEEE EMBC</strong>, 2023  
    <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/10340903/" target="_blank" rel="noopener">Paper</a>
+
+<h2 id="awards"><i class="fas fa-trophy icon-pad-right" aria-hidden="true"></i>Awards</h2>
+
+- **2023.04** - Paper Excellence Award, <strong class="accent-keyword">KSME Bio Engineering Division Poster Presentation</strong>
+- **2019.10** - 1st Place, <strong class="accent-keyword">National Defense Robot Contest</strong> (Hanwha Defense)
+- **2019.08** - 2nd Place, <strong class="accent-keyword">Busan Robot Contest Turtlebot3 Autorace</strong> (Busan Bexco)
+- **2018.11** - 3rd Place, <strong class="accent-keyword">2018 R-BIZ Challenge Turtlebot3 Autorace</strong> (Daegu EXCO)
+- **2018.10** - 5th Place, <strong class="accent-keyword">IRC 2018 Sumo Robot Competition</strong> (Ilsan KINTEX)
+- **2017.11** - Grand Prize, <strong class="accent-keyword">Introduction to Engineering Design Exhibition</strong> (Kwangwoon University)
 
 <h2 id="contact"><i class="fas fa-address-card icon-pad-right" aria-hidden="true"></i>Contact</h2>
 
