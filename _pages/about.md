@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robotics & Physical AI Researcher"
+title: "Hyesung Lee"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 id="about">About</h2>
 
-I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. Kimin Lee (KAIST) and Dr. Sungwook Yang (KIST). My research focuses on <strong class="accent-keyword">Learning-Based Hand Manipulation</strong>, <strong class="accent-keyword">Force-Level Interaction Modeling</strong>, and <strong class="accent-keyword">Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
+I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. [Kimin Lee](https://sites.google.com/view/kiminlee) (KAIST) and Dr. [Sungwook Yang](https://www.ansurlab.com/) (KIST). My research focuses on <strong class="accent-keyword">Learning-Based Hand Manipulation</strong>, <strong class="accent-keyword">Force-Level Interaction Modeling</strong>, and <strong class="accent-keyword">Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
 
 **<i class="fas fa-flask icon-pad-right" aria-hidden="true"></i>Research Interests**
 

@@ -322,3 +322,65 @@
     }
   }
 }
+
+@include breakpoint(max-width $large) {
+  .sidebar {
+    margin-bottom: 1.5em;
+  }
+
+  .author__avatar {
+    width: 140px;
+    display: block;
+    margin: 0 auto;
+
+    img {
+      width: 140px;
+      max-width: 140px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  .author__content {
+    display: block;
+    margin-top: 0.75rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .sidebar .author__name,
+  .author__bio {
+    text-align: center;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    margin-top: 0.75rem;
+    cursor: default;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: block !important;
+    position: relative;
+    right: auto;
+    margin-top: 0.5rem;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    z-index: auto;
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    li {
+      white-space: normal;
+    }
+  }
+}

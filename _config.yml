@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Robotics & Physical AI Researcher"
+title                    : "Hyesung Lee"
 title_separator          : "-"
 name                     : &name "Hyesung Lee"
 description              : &description "Robotics & Physical AI Researcher Focused on Learning-Based Hand Manipulation."
