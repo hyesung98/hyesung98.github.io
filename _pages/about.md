@@ -18,14 +18,14 @@ I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KA
 - <i class="fas fa-cubes icon-pad-right" aria-hidden="true"></i>Vision-Haptic-Language-Action (VHLA) models
 - <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i>Reinforcement learning and imitation learning for robotic hands
 
-<h2 id="news">News</h2>
+<h2 id="news"><i class="fas fa-newspaper icon-pad-right" aria-hidden="true"></i>News</h2>
 
 - **March 2026:** Started Ph.D. in the Kim Jaechul Graduate School of AI, KAIST & KIST.
 - **January 2026:** Work on real-time closed-loop photodynamic therapy accepted to IEEE RA-L/ICRA 2026.
 - **October 2025:** Presented DexRefine at the IEEE Humanoids 2025 Dexterous Humanoid Manipulation Workshop.
 - **May 2023:** Published endomicroscopic image mosaicking work at IEEE EMBC 2023.
 
-## Education
+<h2 id="education"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Education</h2>
 
 **KAIST & KIST**  
 Ph.D. in Kim Jaechul Graduate School of AI, March 2026 - Present  
@@ -40,7 +40,7 @@ Thesis: [Learning to Refine Human Motion into Physically Feasible Robotic Action
 B.S. in School of Robotics, March 2017 - August 2023  
 Advisor: Jin-Oh Kim
 
-<h2 id="experience">Experience</h2>
+<h2 id="experience"><i class="fas fa-briefcase icon-pad-right" aria-hidden="true"></i>Experience</h2>
 
 **KIST (Korea Institute of Science and Technology), Seoul, Republic of Korea**  
 Intern, March 2023 - August 2024
@@ -60,19 +60,19 @@ Intern, September 2021 - December 2021
 - Developed road-data acquisition software using 3D LiDAR, GNSS, and machine vision cameras.
 - Built a sensor calibration visualization tool using ROS RViz.
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications"><i class="fas fa-book-open icon-pad-right" aria-hidden="true"></i>Publications</h2>
 
 1. **Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control**  
    IEEE RA-L / ICRA, 2026  
-   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/10340903/" target="_blank" rel="noopener">Paper</a>
+   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/11361079/" target="_blank" rel="noopener">Paper</a>
 2. **DexRefine: Refine Human Motion to Physically Feasible Robotic Actions**  
    IEEE Humanoids Workshop, 2025  
-   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/11361079/" target="_blank" rel="noopener">Paper</a>
+   <a class="btn btn--small" href="https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf" target="_blank" rel="noopener">Paper</a>
 3. **Real-Time Endomicroscopic Image Mosaicking with an EKF-based Sensor Fusion Approach**  
    IEEE EMBC, 2023  
-   <a class="btn btn--small" href="https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf" target="_blank" rel="noopener">Paper</a>
+   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/10340903/" target="_blank" rel="noopener">Paper</a>
 
-<h2 id="contact">Contact</h2>
+<h2 id="contact"><i class="fas fa-address-card icon-pad-right" aria-hidden="true"></i>Contact</h2>
 
 - Email: [hs981002@naver.com](mailto:hs981002@naver.com)
 - LinkedIn: [linkedin.com/in/hyesung98](https://www.linkedin.com/in/hyesung98)
