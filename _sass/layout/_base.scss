@@ -126,12 +126,12 @@ a {
 }
 
 .accent-keyword {
-  color: #0056b3;
+  color: inherit;
   font-weight: 700;
 }
 
 html[data-theme="dark"] .accent-keyword {
-  color: #8ec5ff;
+  color: inherit;
 }
 
 /* code */

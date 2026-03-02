@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyesung Lee"
+title: "Robotics & Physical AI Researcher"
 author_profile: true
 redirect_from:
   - /about/
