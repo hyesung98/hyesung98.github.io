@@ -11,12 +11,12 @@ redirect_from:
 
 I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. Kimin Lee (KAIST) and Dr. Sungwook Yang (KIST). My research focuses on Physical AI and dexterous manipulation with multi-fingered robotic hands, especially force-level interaction modeling and learning-based control beyond purely kinematic methods.
 
-**Research Interests**
+**<i class="fas fa-flask icon-pad-right" aria-hidden="true"></i>Research Interests**
 
-- Dexterous manipulation
-- Visuo-tactile and kinesthetic representation learning
-- Vision-Haptic-Language-Action (VHLA) models
-- Reinforcement learning and imitation learning for robotic hands
+- <i class="fas fa-robot icon-pad-right" aria-hidden="true"></i>Dexterous manipulation
+- <i class="fas fa-eye icon-pad-right" aria-hidden="true"></i>Visuo-tactile and kinesthetic representation learning
+- <i class="fas fa-cubes icon-pad-right" aria-hidden="true"></i>Vision-Haptic-Language-Action (VHLA) models
+- <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i>Reinforcement learning and imitation learning for robotic hands
 
 <h2 id="news">News</h2>
 
@@ -33,13 +33,11 @@ Advisor: Sungwook Yang (KIST), Kimin Lee (KAIST)
 
 **Korea University & KIST**  
 M.S. in Computer Science, February 2024 - February 2026  
-GPA: 4.31/4.50  
 Advisor: Sungwook Yang (KIST), Jinkyu Kim (Korea University)  
-Thesis: *Learning to Refine Human Motion into Physically Feasible Robotic Actions for Dexterous Manipulation*
+Thesis: [Learning to Refine Human Motion into Physically Feasible Robotic Actions for Dexterous Manipulation](https://dcollection.korea.ac.kr/srch/srchDetail/000000307617?searchWhere1=all&insCode=211009&searchKeyWord1=%EC%9D%B4%ED%98%9C%EC%84%B1&treePageNum=1&query=%2B%28%2B%28all%3A%EC%9D%B4%ED%98%9C%EC%84%B1%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%EC%9D%B4%ED%98%9C%EC%84%B1%5D&sortField=score&searchTotalCount=0&sortDir=desc)
 
 **Kwangwoon University**  
 B.S. in School of Robotics, March 2017 - August 2023  
-GPA: 3.76/4.50 (Major GPA: 3.89/4.50)  
 Advisor: Jin-Oh Kim
 
 <h2 id="experience">Experience</h2>
@@ -62,7 +60,7 @@ Intern, September 2021 - December 2021
 - Developed road-data acquisition software using 3D LiDAR, GNSS, and machine vision cameras.
 - Built a sensor calibration visualization tool using ROS RViz.
 
-<h2 id="publications">Selected Publications</h2>
+<h2 id="publications">Publications</h2>
 
 1. **Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control**  
    IEEE RA-L / ICRA, 2026  
