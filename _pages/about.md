@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HyeSung Lee | Robotics Researcher"
+title: "Hyesung Lee | Robotics & Physical AI Researcher"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 id="about">About</h2>
 
-I am HyeSung Lee, a robotics researcher focused on Physical AI and dexterous manipulation with multi-fingered robotic hands. My work studies how humanoid robots can manipulate objects through force-level interaction modeling and learning-based control, beyond purely kinematic methods.
+I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. Kimin Lee (KAIST) and Dr. Sungwook Yang (KIST). My research focuses on Physical AI and dexterous manipulation with multi-fingered robotic hands, especially force-level interaction modeling and learning-based control beyond purely kinematic methods.
 
 **Research Interests**
 

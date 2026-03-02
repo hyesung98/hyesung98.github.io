@@ -15,7 +15,7 @@ main:
     url: /#contact
 
   - title: "CV"
-    url: /cv/
+    url: /files/hyesung-lee-cv.pdf
 
   - title: "Full Publications"
     url: /publications/
