@@ -62,18 +62,23 @@ Intern, September 2021 - December 2021
 
 <h2 id="publications"><i class="fas fa-book-open icon-pad-right" aria-hidden="true"></i>Publication</h2>
 
-1. **Real-time endomicroscopic image mosaicking with an ekf-based sensor fusion approach**  
-   Authors: Jin Kim, **Hyesung Lee**, Sang-Rok Oh, Sungwook Yang  
-   <strong>IEEE EMBC</strong>, 2023  
-   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/10340903/" target="_blank" rel="noopener">Paper</a>
-2. **Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control**  
-   Authors: **Hyesung Lee**, Sungwook Yang  
-   <strong>IEEE RA-L / ICRA</strong>, 2026  
-   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/11361079/" target="_blank" rel="noopener">Paper</a>
-3. **DexRefine: Refine Human Motion to Physically Feasible Robotic Actions**  
-   Authors: **Hyesung Lee**, Si-Hwan Heo, Sungwook Yang  
+### Current Research
+
+1. **DexRefine: Refine Human Motion to Physically Feasible Robotic Actions**  
+   Authors: **<u>Hyesung Lee</u>**, Si-Hwan Heo, Sungwook Yang  
    <strong>IEEE Humanoids Workshop</strong>, 2025  
    <a class="btn btn--small" href="https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf" target="_blank" rel="noopener">Paper</a>
+
+### Previous Research
+
+1. **Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control**  
+   Authors: **<u>Hyesung Lee</u>**, Sungwook Yang  
+   <strong>IEEE RA-L / ICRA</strong>, 2026  
+   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/11361079/" target="_blank" rel="noopener">Paper</a>
+2. **Real-time endomicroscopic image mosaicking with an ekf-based sensor fusion approach**  
+   Authors: Jin Kim, **<u>Hyesung Lee</u>**, Sang-Rok Oh, Sungwook Yang  
+   <strong>IEEE EMBC</strong>, 2023  
+   <a class="btn btn--small" href="https://ieeexplore.ieee.org/abstract/document/10340903/" target="_blank" rel="noopener">Paper</a>
 
 <h2 id="awards"><i class="fas fa-trophy icon-pad-right" aria-hidden="true"></i>Awards</h2>
 
