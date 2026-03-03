@@ -8,22 +8,22 @@ redirect_from:
 
 <h2 id="about">About</h2>
 
-I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. <a href="https://sites.google.com/view/kiminlee" style="color: var(--global-text-color);">Kimin Lee</a> (KAIST) and Dr. <a href="https://www.ansurlab.com/" style="color: var(--global-text-color);">Sungwook Yang</a> (KIST). My research focuses on <strong>Learning-Based Hand Manipulation</strong>, <strong>Force-Level Interaction Modeling</strong>, and <strong>Learning-Based Control</strong> for Multi-Fingered Robotic Hands.
+I am Hyesung Lee, a Ph.D. student in the Kim Jaechul Graduate School of AI at KAIST & KIST, advised by Prof. <a href="https://sites.google.com/view/kiminlee" style="color: var(--global-text-color);">Kimin Lee</a> (KAIST) and Dr. <a href="https://www.ansurlab.com/" style="color: var(--global-text-color);">Sungwook Yang</a> (KIST). My research focuses on <strong>Learning-Based Dexterous Hand Manipulation</strong>, <strong>Dynamics-Aware Visuo-Tactile Representation Learning</strong>, and <strong>Task Adaptive Compliance Control</strong> for Multi-Fingered Robotic Hands.
 
 **<i class="fas fa-flask icon-pad-right" aria-hidden="true"></i>Research Interests**
 
-- <i class="fas fa-hand-paper icon-pad-right" aria-hidden="true"></i><strong>Learning-Based Hand Manipulation</strong>
-- <i class="fas fa-eye icon-pad-right" aria-hidden="true"></i><strong>Visuo-Tactile and Kinesthetic Representation Learning</strong>
+- <i class="fas fa-hand-paper icon-pad-right" aria-hidden="true"></i><strong>Learning-Based Dexterous Hand Manipulation</strong>
+- <i class="fas fa-eye icon-pad-right" aria-hidden="true"></i><strong>Dynamic Aware Visuo-Tactile (also Kinesthetic) Representation Learning</strong>
 - <i class="fas fa-cubes icon-pad-right" aria-hidden="true"></i><strong>Vision-Haptic-Language-Action (VHLA) Models</strong>
-- <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i><strong>Reinforcement Learning</strong> and <strong>Imitation Learning</strong>
-- <i class="fas fa-robot icon-pad-right" aria-hidden="true"></i><strong>Robot Manipulation</strong>
+- <i class="fas fa-brain icon-pad-right" aria-hidden="true"></i> <strong>Sample  Efficient Reinforcement Learning</strong> and <strong> Data Efficient Imitation Learning</strong>
+
 
 <h2 id="news"><i class="fas fa-newspaper icon-pad-right" aria-hidden="true"></i>News</h2>
 
 - **March 2026:** Started Ph.D. in the Kim Jaechul Graduate School of AI, KAIST & KIST.
-- **January 2026:** Work on real-time closed-loop photodynamic therapy accepted to <strong>IEEE RA-L / ICRA 2026</strong>.
-- **October 2025:** Presented DexRefine at the <strong>IEEE Humanoids 2025 Dexterous Humanoid Manipulation Workshop</strong>.
-- **May 2023:** Published endomicroscopic image mosaicking work at <strong>IEEE EMBC 2023</strong>.
+- **January 2026:** Work on <strong>"SLAM-Guided Real-time Closed-Loop Photodynamic Therapy"</strong> accepted to <strong>IEEE RA-L / ICRA 2026</strong>.
+- **October 2025:** Presented <strong>"DexRefine"</strong> at the <strong>IEEE Humanoids 2025 Dexterous Humanoid Manipulation Workshop</strong>.
+- **May 2023:** Published <strong>"EKF-Sensor Fusion based Endomicroscopic Image Mosaicking"</strong> work at <strong>IEEE EMBC 2023</strong>.
 
 <h2 id="education"><i class="fas fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Education</h2>
 
@@ -88,7 +88,7 @@ Intern, September 2021 - December 2021
 
 - Email: [hs981002@naver.com](mailto:hs981002@naver.com)
 - LinkedIn: [linkedin.com/in/hyesung98](https://www.linkedin.com/in/hyesung98)
-- Google Scholar: [scholar.google.com](https://scholar.google.com/)
+- Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=spRlkocAAAAJ&hl=ko)
 - GitHub: [github.com/hyesung98](https://github.com/hyesung98)
 - Phone: +82-10-4551-3679
 - Location: Seoul, Republic of Korea
