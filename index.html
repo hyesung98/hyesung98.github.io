@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Hyesung Lee</title>
+    <meta name="description" content="Robotics &amp; Physical AI Researcher Focused on Learning-Based Hand Manipulation.">
+    <link rel="canonical" href="https://hyesung98.github.io/">
+
+    <script type="application/ld+json">
+      {
+        "@context" : "http://schema.org",
+        "@type" : "Person",
+        "name" : "Hyesung Lee",
+        "url" : "https://hyesung98.github.io"
+      }
+    </script>
+
+    <!-- Open Graph protocol data (https://ogp.me/), used by social media -->
+    <meta property="og:locale" content="en-US">
+    <meta property="og:site_name" content="Hyesung Lee">
+    <meta property="og:title" content="Hyesung Lee">
+    <meta property="og:url" content="https://hyesung98.github.io/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+    </script>
+
+    <!-- For all browsers -->
+    <link rel="stylesheet" href="assets/css/main.css">
+
+    <!-- Support for Academicons -->
+    <link rel="stylesheet" href="assets/css/academicons.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap">
+
+    <!-- favicon: shooting star -->
+    <link rel="icon" type="image/svg+xml" href="images/favicon-star.svg"/>
+    <link rel="icon" href="images/favicon-star.svg"/>
+    <meta name="theme-color" content="#ffffff"/>
+
+    <!-- custom overrides -->
+    <style>
+      .author__avatar img { border-radius: 12px; }
+
+      /* Publication list (thumbnail + info), willi19-style */
+      .pub-list { margin: 0.5em 0 1.5em; }
+      .pub-item {
+        display: flex;
+        gap: 1.25em;
+        padding: 0.6em 0;
+        border-bottom: 1px solid var(--global-border-color, #e5e5e5);
+      }
+      .pub-thumb { flex: 0 0 266px; }
+      .pub-thumb img,
+      .pub-thumb video {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 1px solid var(--global-border-color, #e5e5e5);
+        display: block;
+      }
+      .pub-body { flex: 1 1 auto; min-width: 0; }
+      .pub-title { font-size: 1.05em; font-weight: 600; line-height: 1.35; margin: 0 0 0.3em; }
+      .pub-title a { color: var(--global-text-color); }
+      .pub-authors { margin: 0 0 0.2em; font-size: 0.92em; }
+      .pub-venue { margin: 0 0 0.2em; font-size: 0.92em; font-style: italic; opacity: 0.8; }
+      .pub-links { margin: 0.6em 0 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
+      .pub-links a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4em;
+        padding: 0.3em 0.85em;
+        font-size: 0.8em;
+        font-weight: 600;
+        line-height: 1.25;
+        color: var(--global-link-color, #145bc7);
+        border: 1px solid var(--global-link-color, #145bc7);
+        border-radius: 999px;
+        text-decoration: none !important;
+        white-space: nowrap;
+        transition: background-color 0.15s ease, color 0.15s ease;
+      }
+      .pub-links a:hover {
+        color: #fff !important;
+        background: var(--global-link-color, #145bc7);
+      }
+      .pub-links a i { font-size: 0.9em; }
+      .pub-award { margin: 0.3em 0 0; font-size: 0.9em; font-weight: 700; color: #d10000; }
+      .pub-award .medal { margin-right: 0.3em; }
+      @media (max-width: 640px) {
+        .pub-item { flex-direction: column; gap: 0.6em; }
+        .pub-thumb { flex-basis: auto; max-width: 240px; }
+      }
+
+      /* Left-panel institution colors */
+      .kaist { color: #0067b1; font-weight: 600; }
+      .kist  { color: #e60012; font-weight: 600; }
+
+      /* Emoji before section headings */
+      .sec-emoji { margin-right: 0.35em; font-style: normal; }
+
+      /* Research Interests label matches h2 (About) font size */
+      .page__content > p.ri-heading { font-size: 1.25em; margin-bottom: 0.4em; }
+      /* Research Interests list: one extra tab */
+      .page__content > ul.ri-list { padding-left: 4.5em; }
+
+      /* Indent section content (tab-like); keep headings flush-left */
+      .page__content > * { padding-left: 1.5em; }
+      .page__content > h2 { padding-left: 0; }
+      /* Bullet/numbered lists get an extra tab so they nest under their text */
+      .page__content > ul,
+      .page__content > ol { padding-left: 3em; }
+      /* Awards: no bullet markers, align with normal content indent */
+      .page__content > ul.no-bullets { list-style: none; padding-left: 1.5em; }
+    </style>
+  </head>
+
+  <body>
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><span class="navicon"></span></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg persist selected">
+            <a href="index.html">Hyesung Lee <span role="img" aria-label="shooting star">🌠</span></a>
+          </li>
+          <li class="masthead__menu-item ">
+            <a href="#about">About</a>
+          </li>
+          <li class="masthead__menu-item ">
+            <a href="#publications">Publications</a>
+          </li>
+          <li class="masthead__menu-item ">
+            <a href="#experience">Experience</a>
+          </li>
+          <li class="masthead__menu-item ">
+            <a href="files/hyesung-lee-cv.pdf" target="_blank" rel="noopener">CV</a>
+          </li>
+          <li id="theme-toggle" class="masthead__menu-item persist tail">
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+          </li>
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<div id="main" role="main">
+  <div class="sidebar sticky">
+    <div itemscope itemtype="http://schema.org/Person">
+      <div class="author__avatar">
+        <img src="images/profile-hyesung.jpg" alt="Hyesung Lee" fetchpriority="high" />
+      </div>
+
+      <div class="author__content">
+        <h3 class="author__name">Hyesung Lee</h3>
+        <p class="author__bio">Ph.D. student in the Kim Jaechul Graduate School of AI at <span class="kaist">KAIST</span> &amp; <span class="kist">KIST</span>.</p>
+      </div>
+
+      <div class="author__urls-wrapper">
+        <button class="btn btn--inverse">Follow</button>
+        <ul class="author__urls social-icons">
+          <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>Seoul, Republic of Korea</li>
+          <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i><span class="kaist">KAIST</span> &amp; <span class="kist">KIST</span></li>
+          <li><a href="mailto:hs981002@kist.re.kr"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
+          <li><a href="https://scholar.google.com/citations?user=spRlkocAAAAJ&hl=ko"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
+          <li><a href="https://github.com/hyesung98"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/hyesung98"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        <h2 id="about">About <span aria-label="waving hand" role="img">👋</span></h2>
+
+<p>I am Hyesung Lee, a Ph.D. student at KAIST (Kim Jaechul Graduate School of AI) and KIST, co-advised by Prof. <a href="https://sites.google.com/view/kiminlee" style="color: var(--global-text-color);">Kimin Lee</a> and Dr. <a href="https://www.ansurlab.com/" style="color: var(--global-text-color);">Sungwook Yang</a>. My research focuses on <strong>Force-Aware Dexterous Hand Manipulation</strong> to achieve human-level dexterity in robotic hands.</p>
+
+<p class="ri-heading"><strong><span class="sec-emoji" role="img" aria-label="test tube">🧪</span>Research Interests</strong></p>
+
+<ul class="ri-list">
+  <li><span class="sec-emoji" role="img" aria-label="raised hand">✋</span><strong>Human level Dexterous Hand Manipulation</strong></li>
+  <li><span class="sec-emoji" role="img" aria-label="eye">👁️</span><strong>Dynamics Aware Visuo-Force Representation Learning</strong></li>
+  <li><span class="sec-emoji" role="img" aria-label="bricks">🧱</span><strong>Vision-Haptic-Language-Action (VHLA) Models</strong></li>
+</ul>
+
+<h2 id="publications"><span class="sec-emoji" role="img" aria-label="books">📚</span>Publications</h2>
+
+<div class="pub-list">
+
+  <!-- DexSynRefine -->
+  <div class="pub-item">
+    <div class="pub-thumb">
+      <video src="images/teaser-dexsynrefine.mp4" autoplay muted loop playsinline></video>
+    </div>
+    <div class="pub-body">
+      <p class="pub-title">DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions</p>
+      <p class="pub-authors"><strong><u>Hyesung Lee</u></strong><sup>*</sup>, Hyunwoo Jung, Si-Hwan Heo, Sungwook Yang<sup>&dagger;</sup></p>
+      <p class="pub-venue">Under Review (arXiv preprint), 2026</p>
+      <p class="pub-links">
+        <a href="https://arxiv.org/abs/2605.05925" target="_blank" rel="noopener"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>
+        <a href="https://dexsynrefine.github.io/" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i>Project</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- UniDex-ViTac -->
+  <div class="pub-item">
+    <div class="pub-thumb">
+      <video src="images/teaser-unidex-vitac.mp4" autoplay muted loop playsinline></video>
+    </div>
+    <div class="pub-body">
+      <p class="pub-title">UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data</p>
+      <p class="pub-authors"><strong><u>Hyesung Lee</u></strong><sup>*</sup>, Si-Hwan Heo, Sungwook Yang<sup>&dagger;</sup></p>
+      <p class="pub-venue">ICRA 2026 Beyond Teleoperation Workshop</p>
+      <p class="pub-award"><span class="medal" role="img" aria-label="medal">🏅</span>Best Paper Award ($500 Prize)</p>
+      <p class="pub-links">
+        <a href="https://openreview.net/forum?id=JYXvblxW8t" target="_blank" rel="noopener"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>
+        <a href="https://unidex-vitac.github.io/" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i>Project</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Publication 1 — Tumor SLAM (RA-L) -->
+  <div class="pub-item">
+    <div class="pub-thumb">
+      <video src="images/teaser-tumor-slam.mp4" autoplay muted loop playsinline></video>
+    </div>
+    <div class="pub-body">
+      <p class="pub-title">Real-Time SLAM-Guided Closed-Loop Photodynamic Therapy with Pixel-Accurate Light-Dose Control</p>
+      <p class="pub-authors"><strong><u>Hyesung Lee</u></strong><sup>*</sup>, Sungwook Yang<sup>&dagger;</sup></p>
+      <p class="pub-venue">IEEE RA-L / ICRA, 2026</p>
+      <p class="pub-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/11361079" target="_blank" rel="noopener"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Publication 2 — DexRefine -->
+  <div class="pub-item">
+    <div class="pub-thumb">
+      <video src="images/teaser-dexrefine.mp4" autoplay muted loop playsinline></video>
+    </div>
+    <div class="pub-body">
+      <p class="pub-title">DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</p>
+      <p class="pub-authors"><strong><u>Hyesung Lee</u></strong><sup>*</sup>, Si-Hwan Heo, Sungwook Yang<sup>&dagger;</sup></p>
+      <p class="pub-venue">IEEE Humanoids Workshop, 2025</p>
+      <p class="pub-links">
+        <!-- real: https://dexterous-humanoid-manipulation.github.io/src/file/paper/hlee.pdf -->
+        <a href="#" target="_blank" rel="noopener"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Publication 3 — EMBC -->
+  <div class="pub-item">
+    <div class="pub-thumb">
+      <img src="images/teaser-embc.png" alt="EMBC teaser" />
+    </div>
+    <div class="pub-body">
+      <p class="pub-title">Real-time Endomicroscopic Image Mosaicking with an EKF-based Sensor Fusion Approach</p>
+      <p class="pub-authors">Jin Kim, <strong><u>Hyesung Lee</u></strong><sup>*</sup>, Sang-Rok Oh, Sungwook Yang<sup>&dagger;</sup></p>
+      <p class="pub-venue">IEEE EMBC, 2023</p>
+      <p class="pub-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10340903" target="_blank" rel="noopener"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<h2 id="education"><span class="sec-emoji" role="img" aria-label="graduation cap">🎓</span>Education</h2>
+
+<p><strong>KAIST &amp; KIST</strong><br />
+Ph.D. in Kim Jaechul Graduate School of AI, March 2026 - Present<br />
+Advisor: Sungwook Yang (KIST), Kimin Lee (KAIST)</p>
+
+<p><strong>Korea University &amp; KIST</strong><br />
+M.S. in Computer Science, February 2024 - February 2026<br />
+Advisor: Sungwook Yang (KIST), Jinkyu Kim (Korea University)<br />
+Thesis: <a href="https://dcollection.korea.ac.kr/srch/srchDetail/000000307617?searchWhere1=all&amp;insCode=211009&amp;searchKeyWord1=%EC%9D%B4%ED%98%9C%EC%84%B1&amp;treePageNum=1&amp;query=%2B%28%2B%28all%3A%EC%9D%B4%ED%98%9C%EC%84%B1%29%29&amp;navigationSize=10&amp;start=0&amp;pageSize=10&amp;searthTotalPage=0&amp;rows=10&amp;ajax=false&amp;pageNum=1&amp;searchText=%5B%EC%A0%84%EC%B2%B4%3A%EC%9D%B4%ED%98%9C%EC%84%B1%5D&amp;sortField=score&amp;searchTotalCount=0&amp;sortDir=desc" style="color: var(--global-text-color);">Learning to Refine Human Motion into Physically Feasible Robotic Actions for Dexterous Manipulation</a></p>
+
+<p><strong>Kwangwoon University</strong><br />
+B.S. in School of Robotics, March 2017 - August 2023<br />
+Advisor: Jin-Oh Kim</p>
+
+<h2 id="experience"><span class="sec-emoji" role="img" aria-label="briefcase">💼</span>Experience</h2>
+
+<p><strong>KIST (Korea Institute of Science and Technology), Seoul, Republic of Korea</strong><br />
+Intern, March 2023 - August 2024</p>
+
+<ul>
+  <li>Researched Endomicroscopic Image SLAM and Sensor Fusion.</li>
+  <li>Performed Photo-Theranosis System Integration.</li>
+</ul>
+
+<p><strong>Kakao Mobility, Seoul, Republic of Korea</strong><br />
+Contract Worker, December 2021 - May 2022</p>
+
+<ul>
+  <li>Built a Promotional Autonomous Driving Mobile Robot for Kakao NEMO 2022.</li>
+  <li>Conducted Stereo Camera Visual Odometry Research.</li>
+</ul>
+
+<p><strong>Stryx (Startup), Seoul, Republic of Korea</strong><br />
+Intern, September 2021 - December 2021</p>
+
+<ul>
+  <li>Developed Road-Data Acquisition Software using 3D LiDAR, GNSS, and Machine Vision Cameras.</li>
+  <li>Built a Sensor Calibration Visualization Tool using ROS RViz.</li>
+</ul>
+
+<h2 id="awards"><span class="sec-emoji" role="img" aria-label="trophy">🏆</span>Awards</h2>
+
+<ul class="no-bullets">
+  <li><strong>2023.04</strong> - Paper Excellence Award, <strong>KSME Bio Engineering Division Poster Presentation</strong></li>
+  <li><strong>2019.10</strong> - 1st Place, <strong>National Defense Robot Contest</strong> (Hanwha Defense)</li>
+  <li><strong>2019.08</strong> - 2nd Place, <strong>Busan Robot Contest Turtlebot3 Autorace</strong> (Busan Bexco)</li>
+  <li><strong>2018.11</strong> - 3rd Place, <strong>2018 R-BIZ Challenge Turtlebot3 Autorace</strong> (Daegu EXCO)</li>
+  <li><strong>2018.10</strong> - 5th Place, <strong>IRC 2018 Sumo Robot Competition</strong> (Ilsan KINTEX)</li>
+  <li><strong>2017.11</strong> - Grand Prize, <strong>Introduction to Engineering Design Exhibition</strong> (Kwangwoon University)</li>
+</ul>
+
+      </section>
+    </div>
+  </article>
+</div>
+
+    <script type="module" src="assets/js/main.min.js"></script>
+  </body>
+</html>
